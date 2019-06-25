@@ -14,7 +14,7 @@
   下图是我的 onlineSearch 设置
  ![webstorm-plugins-online-search-setting.png](../images/webstorm-plugins-online-search-setting.png)
 - .ignore 
-- Image Icon viewer 或 Icon Viewer: 支持在目录中和顶部的标题栏显示图片的缩略图，Icon Viewer支持的图片类型多但是在我这里是无效的，不知道什么原因
+- Image Icon viewer 或 Icon Viewer: 支持在目录中和顶部的标题栏显示图片的缩略图，Icon Viewer 支持的图片类型多但是在我这里是无效的，不知道什么原因
 
 
 最后再补充一张图片吧
