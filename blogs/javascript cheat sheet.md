@@ -1,4 +1,4 @@
-```
+```plain
 // 去重
 const arr = [1,2,2,3,3,4,5,5];
 const uniq = [...new Set(arr)]; // [1,2,3,4,5]
