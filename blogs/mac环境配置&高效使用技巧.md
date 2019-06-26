@@ -85,7 +85,7 @@ oh-my-zsh 含很多实用插件和主题, 网上有很多配置相关的文章�
 - webStorm
 - n： node 版本管理工具 `brew install n`
 - explainshell 查看命令的含义
-- Codelf(变量命名搜索)
+
 
 -----------
 
@@ -98,6 +98,13 @@ oh-my-zsh 含很多实用插件和主题, 网上有很多配置相关的文章�
   `brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo`
   
 - 输入特殊字符：按 ⌘ + ⌃ + Space 能够快捷调出「显示表情与符号」对话框，供我们快速选择表情或者符号输入
+- 在Finder中移动&复制文件 
+  - 拖动方式，默认同一宗卷之下的拖拽是移动文件，跨宗卷或跨硬盘拖拽是复制文件
+    - 想要在同卷宗下复制文件，拖放结束的时候需要按住⌥，这时被拖动的文件上会出现一个⨁提示，先松开拖动文件的手势再松开⌥键。
+    - 在不同卷宗下移动文件，拖放结束时需要按住⌘
+  - 快捷键
+    - 移动文件: 选中文件按⌘＋C 切换至目标文件夹⌘+⌥+V 
+    - 复制文件: 选中文件按⌘＋C 切换至目标文件夹⌘+V 
 
 
 ------------
