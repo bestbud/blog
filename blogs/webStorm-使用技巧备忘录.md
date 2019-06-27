@@ -1,4 +1,4 @@
-平时写代码用 webStorm 多一些，会用到一些插件来提高工作效率，今天发现查看目录里面的图片不太方便，找了下支持目录显示图片缩略图的插件，顺便整理了一下常用的插件。
+## 有用的插件
 - AceJump: 键盘控制光标跳转
   1. 快捷键`⌃ + ;` 输入关键词会在所有的匹配的关键词旁边高亮显示一写字母，输入字母可以使光标跳转的指定位置。
   2. 快捷键 `⇧ + ⌃ + ;` 可以快速跳转到指定行
@@ -16,7 +16,13 @@
 - .ignore 
 - Image Icon viewer 或 Icon Viewer: 支持在目录中和顶部的标题栏显示图片的缩略图，Icon Viewer 支持的图片类型多但是在我这里是无效的，不知道什么原因
 
+  集合效果
+  ![webstorm-plugins-several](../images/webstorm-plugins-several.png)
 
-最后再补充一张图片吧
-![webstorm-plugins-several](../images/webstorm-plugins-several.png)
+***
 
+## 快捷键
+
+⌘ + ⇧ + U: 切换选中英文的大小写
+⌘ + D: 重复当前行内容
+⌘ + X: 剪切当前行

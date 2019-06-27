@@ -24,3 +24,34 @@ eg.
      
   2.增加跳转链接：`[名称](#anchor_xxx)`
 
+***
+
+## 表格
+```plain
+  名称|值|备注         //表头
+  ---|---|---        //表头和主体的分隔
+  名称1|值1|备注1      // 主体区域
+  名称2|值2|备注2
+  
+  
+  :---  //左对齐 默认值
+  ---:  //右对齐
+ :---:  //居中对齐
+
+```
+  姓名(左对齐)|年龄(右对齐)|爱好(居中)|
+  ---|---:|:---:
+  宋二毛毛|128|扣鼻屎然后扯一张纸巾认真的包好藏起来
+  毛毛|4|找宋二毛毛藏起来的东西
+
+
+## 使用 [Font Awesome](https://fontawesome.com/)插入小图标
+按照官网给出的文档操作就可以，最简单的使用方式是创建一个 kit,复制粘贴对应的脚本标签
+
+```html
+<script src="https://kit.fontawesome.com/b7076e4b69.js"></script>
+```
+<script src="https://kit.fontawesome.com/b7076e4b69.js"></script>
+插入图标   
+`<i class="fas fa-book"></i>` 
+<i class="fas fa-book"></i>
