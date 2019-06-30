@@ -1,5 +1,5 @@
 运行 `git status`，中文路径名显示异常，如下图所示
-![git-status-can-not-show-Chinese.png](../images/git-status-can-not-show-Chinese.png)
+![git-status-can-not-show-Chinese.png](images/git-status/git-status-can-not-show-Chinese.png)
 ### Git 拥有三个级别的配置文件 
 1. 文件夹中”.git”子文件夹中的 config 文件，最高的优先级，只对所在文档库有效，对应 git config 命令的 --local
 
